@@ -5,9 +5,9 @@ export default function Profile () {
   return (
     
     <header>
-      <div>
+      {/* <div>
         <img src="/images/profile-hex.png"/> 
-      </div>
+      </div> */}
       <div>
         <h2>Amanda Tuyen</h2>
       </div>
